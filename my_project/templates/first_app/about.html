@@ -1,0 +1,44 @@
+<!DOCTYPE html> {% load static %}
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>HIIIIIIIIIII</title>
+    <link rel="Stylesheet" herf="{% static 'css/style.css' %}" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+</head>
+
+<body>
+    <div class="container">
+        <div class="jumbotron">
+            <h1> WEBSITE </h1>
+            <h2>Here is your accrss record</h2>
+        </div>
+
+        <div class="django">
+            {% if access_record %}
+            <table>
+                <thead>
+                    <th>Site Name</th>
+                    <th>Date Accessed</th>
+                </thead>
+
+                {% for acc in access_record %}
+                <tr>
+                    <td>{{ acc.name }}</td>
+                    <td>{{ acc.date }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+            {% else %}
+            <p> NO ACCESS RECORD FOUND!</p>
+            {% endif %}
+        </div>
+    </div>
+
+
+</body>
+
+</html>

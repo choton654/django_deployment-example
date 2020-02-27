@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bd0666b-d660-4567-bc23-d70322a09958" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="Django_project/invalid/Django" />
+    </ignored-facets>
+  </component>
+  <component name="ProjectId" id="1XfJss3xEdfHHoiC3qnCkF68lLw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Django_project\my_project\templates\first_app" />
+      <recent name="E:\Django_project\my_project\first_app" />
+      <recent name="E:\Django_project\my_project\static\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Django_project\my_project\static\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bd0666b-d660-4567-bc23-d70322a09958" name="Default Changelist" comment="" />
+      <created>1581431425563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581431425563</updated>
+      <workItem from="1581525288906" duration="1330000" />
+      <workItem from="1581565060997" duration="2864000" />
+      <workItem from="1581568424424" duration="1748000" />
+      <workItem from="1581589633808" duration="30000" />
+      <workItem from="1581659690460" duration="5000" />
+      <workItem from="1581659949092" duration="167000" />
+      <workItem from="1581664306168" duration="111000" />
+      <workItem from="1581664906839" duration="800000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="427" y="5" width="816" height="724" key="#Intentions" timestamp="1581439166858">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="427" y="5" width="816" height="724" key="#Intentions/0.0.1600.860@0.0.1600.860" timestamp="1581439166858" />
+    <state x="241" y="176" key="#Notifications" timestamp="1581444957509">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="241" y="176" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1581444957509" />
+    <state x="559" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581567617411">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="559" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1581567617411" />
+    <state x="580" y="187" key="FileChooserDialogImpl" timestamp="1581664404046">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="187" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1581664404046" />
+    <state x="487" y="47" key="SettingsEditor" timestamp="1581572417526">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="487" y="47" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1581572417526" />
+    <state x="361" y="330" key="com.intellij.ide.util.TipDialog" timestamp="1581659948204">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="361" y="330" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1581659948204" />
+    <state x="182" y="56" key="new project wizard" timestamp="1581660076773">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="56" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1581660076773" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/my_project/first_app/views.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
